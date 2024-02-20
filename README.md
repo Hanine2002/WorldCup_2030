@@ -4,7 +4,7 @@ This project involves the creation of a website using React.js to represent the 
 
 ## launch the project
 
-Clone the project to your local machine : `git clone https://github.com/Kefabd/ReactApp-WolrdCup-2030.git`.\
+Clone the project to your local machine .
 Open terminal in the working directory (local folder).\
 `cd world_cup`.\
 Install the node module : `npm install`.\
